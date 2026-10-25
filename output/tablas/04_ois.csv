@@ -1,0 +1,16 @@
+desenlace_id,observado,efecto_objetivo,metrica,requerido,ois_cumplido
+os,377,0.7,eventos,247,TRUE
+os,377,0.75,eventos,380,FALSE
+os,377,0.8,eventos,631,FALSE
+pfs,589,0.7,eventos,247,TRUE
+pfs,589,0.75,eventos,380,TRUE
+pfs,589,0.8,eventos,631,FALSE
+ea_g3,680,1.25,pacientes,2041,FALSE
+ea_g3,680,1.5,pacientes,542,TRUE
+ea_g3,680,2,pacientes,146,TRUE
+mort_postop,680,1.25,pacientes,63780,FALSE
+mort_postop,680,1.5,pacientes,17692,FALSE
+mort_postop,680,2,pacientes,5291,FALSE
+renal_g3,680,1.25,pacientes,63780,FALSE
+renal_g3,680,1.5,pacientes,17692,FALSE
+renal_g3,680,2,pacientes,5291,FALSE

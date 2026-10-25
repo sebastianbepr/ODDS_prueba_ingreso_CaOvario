@@ -1,0 +1,36 @@
+zona_mu,n,analisis_id,probabilidad
+Beneficio grande,9463,os_todos,0.236575
+Beneficio moderado,11086,os_todos,0.27715
+Beneficio pequeño,6148,os_todos,0.1537
+Trivial,5787,os_todos,0.144675
+Daño pequeño,2653,os_todos,0.066325
+Daño moderado,2632,os_todos,0.0658
+Daño grande,2231,os_todos,0.055775
+Beneficio grande,18325,os_cisplatino,0.458125
+Beneficio moderado,10503,os_cisplatino,0.262575
+Beneficio pequeño,4020,os_cisplatino,0.1005
+Trivial,3153,os_cisplatino,0.078825
+Daño pequeño,1350,os_cisplatino,0.03375
+Daño moderado,1230,os_cisplatino,0.03075
+Daño grande,1419,os_cisplatino,0.035475
+Beneficio grande,3368,pfs_todos,0.0842
+Beneficio moderado,4951,pfs_todos,0.123775
+Beneficio pequeño,5645,pfs_todos,0.141125
+Trivial,9191,pfs_todos,0.229775
+Daño pequeño,5906,pfs_todos,0.14765
+Daño moderado,6181,pfs_todos,0.154525
+Daño grande,4758,pfs_todos,0.11895
+Beneficio grande,8658,pfs_cisplatino,0.21645
+Beneficio moderado,10588,pfs_cisplatino,0.2647
+Beneficio pequeño,7012,pfs_cisplatino,0.1753
+Trivial,6411,pfs_cisplatino,0.160275
+Daño pequeño,2684,pfs_cisplatino,0.0671
+Daño moderado,2422,pfs_cisplatino,0.06055
+Daño grande,2225,pfs_cisplatino,0.055625
+Beneficio grande,0,ea_g3_todos,0
+Beneficio moderado,53,ea_g3_todos,0.001325
+Beneficio pequeño,306,ea_g3_todos,0.00765
+Trivial,4031,ea_g3_todos,0.100775
+Daño pequeño,6775,ea_g3_todos,0.169375
+Daño moderado,19556,ea_g3_todos,0.4889
+Daño grande,9279,ea_g3_todos,0.231975

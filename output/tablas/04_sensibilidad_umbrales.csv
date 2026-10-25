@@ -1,0 +1,50 @@
+analisis_id,escala_umbral,t_pequeno,certeza_num,certeza
+os_todos,0.5,10,2,Baja
+os_cisplatino,0.5,10,4,Alta
+pfs_todos,0.5,10,1,Muy baja
+pfs_cisplatino,0.5,10,1,Muy baja
+ea_g3_todos,0.5,25,3,Moderada
+renal_g3_chipor,0.5,10,3,Moderada
+mort_postop_todos,0.5,2.5,1,Muy baja
+os_todos,0.75,15,2,Baja
+os_cisplatino,0.75,15,3,Moderada
+pfs_todos,0.75,15,1,Muy baja
+pfs_cisplatino,0.75,15,1,Muy baja
+ea_g3_todos,0.75,37.5,3,Moderada
+renal_g3_chipor,0.75,15,2,Baja
+mort_postop_todos,0.75,3.75,1,Muy baja
+os_todos,1,20,2,Baja
+os_cisplatino,1,20,3,Moderada
+pfs_todos,1,20,1,Muy baja
+pfs_cisplatino,1,20,1,Muy baja
+ea_g3_todos,1,50,3,Moderada
+renal_g3_chipor,1,20,2,Baja
+mort_postop_todos,1,5,2,Baja
+os_todos,1.25,25,2,Baja
+os_cisplatino,1.25,25,3,Moderada
+pfs_todos,1.25,25,1,Muy baja
+pfs_cisplatino,1.25,25,1,Muy baja
+ea_g3_todos,1.25,62.5,3,Moderada
+renal_g3_chipor,1.25,25,2,Baja
+mort_postop_todos,1.25,6.25,2,Baja
+os_todos,1.5,30,2,Baja
+os_cisplatino,1.5,30,3,Moderada
+pfs_todos,1.5,30,1,Muy baja
+pfs_cisplatino,1.5,30,1,Muy baja
+ea_g3_todos,1.5,75,3,Moderada
+renal_g3_chipor,1.5,30,2,Baja
+mort_postop_todos,1.5,7.5,2,Baja
+os_todos,1.75,35,2,Baja
+os_cisplatino,1.75,35,3,Moderada
+pfs_todos,1.75,35,1,Muy baja
+pfs_cisplatino,1.75,35,1,Muy baja
+ea_g3_todos,1.75,87.5,2,Baja
+renal_g3_chipor,1.75,35,2,Baja
+mort_postop_todos,1.75,8.75,3,Moderada
+os_todos,2,40,2,Baja
+os_cisplatino,2,40,3,Moderada
+pfs_todos,2,40,1,Muy baja
+pfs_cisplatino,2,40,2,Baja
+ea_g3_todos,2,100,2,Baja
+renal_g3_chipor,2,40,2,Baja
+mort_postop_todos,2,10,3,Moderada

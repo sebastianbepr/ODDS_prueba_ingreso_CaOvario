@@ -1,0 +1,8 @@
+analisis,efecto_relativo,basal_por_mil,efecto_absoluto,objetivo,ajustes,certeza,certeza_mid_unico
+"SG, todos los platinos",HR 0.86 (0.63-1.17),620,-55 por 1000 (-163 a +58),al_menos_pequeno_beneficio,RoB 0 | Inc -1 | Ind 0 | Pub 0 | Imp -1 (umbrales cruzados: 1),⊕⊕◯◯ Baja,Baja
+"SG, cisplatino",HR 0.76 (0.60-0.96),620,-99 por 1000 (-178 a -15),al_menos_pequeno_beneficio,RoB 0 | Inc 0 | Ind 0 | Pub 0 | Imp -1 (umbrales cruzados: 1),⊕⊕⊕◯ Moderada,Moderada
+"SLP, todos los platinos",HR 1.04 (0.72-1.50),717,+13 por 1000 (-122 a +132),sin_efecto_importante,RoB -1 | Inc -1 | Ind 0 | Pub 0 | Imp -3 (umbrales cruzados: 3),⊕◯◯◯ Muy baja,Muy baja
+"SLP, cisplatino",HR 0.87 (0.68-1.11),717,-50 por 1000 (-139 a +37),al_menos_pequeno_beneficio,RoB -1 | Inc 0 | Ind 0 | Pub 0 | Imp -2 (umbrales cruzados: 2),⊕◯◯◯ Muy baja,Muy baja
+EA grado >=3,RR 1.74 (1.37-2.22),211,+157 por 1000 (+78 a +256),al_menos_pequeno_dano,RoB 0 | Inc 0 | Ind -1 | Pub 0 | Imp 0 (umbrales cruzados: 0),⊕⊕⊕◯ Moderada,Moderada
+Falla renal grado >=3,RR 6.70 (2.02-22.20),14,+82 por 1000 (+15 a +306),al_menos_pequeno_dano,RoB 0 | Inc 0 | Ind -1 | Pub 0 | Imp -1 (umbrales cruzados: 1),⊕⊕◯◯ Baja,Baja
+Mortalidad postoperatoria,RR 0.14 (0.01-2.76),9,-8 por 1000 (-9 a +15),sin_dano_importante,RoB 0 | Inc 0 | Ind 0 | Pub 0 | Imp -2 (umbrales cruzados: 2),⊕⊕◯◯ Baja,Baja

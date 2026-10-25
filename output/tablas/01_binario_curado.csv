@@ -1,0 +1,10 @@
+estudio,desenlace_id,eventos_hipec,n_hipec,eventos_control,n_control,ventana_escala,dato_inferido,farmaco_hipec,quimio_secuencia,aleatorizacion_momento,fase,proporcion_hipec,proporcion_control
+CHIPOR,ea_g3,102,207,56,208,60 días post-cirugía (CTCAE v4.0),FALSE,Cisplatino,Antes de la cirugía,Tras la citorreducción (CC0/CC1),III,0.4927536231884058,0.2692307692307692
+MSK,ea_g3,12,49,10,49,30 días post-cirugía (MSKCC grading),FALSE,Carboplatino,Después de la cirugía,Antes de completar la citorreducción,II,0.24489795918367346,0.20408163265306123
+HORSE,ea_g3,10,82,6,85,30 días (tempranos) y 6m (tardíos),FALSE,Cisplatino,Después de la cirugía,Tras la citorreducción (CC0/CC1),III,0.12195121951219512,0.07058823529411765
+CHIPOR,renal_g3,20,207,3,208,60 días post-cirugía (CTCAE v4.0),FALSE,Cisplatino,Antes de la cirugía,Tras la citorreducción (CC0/CC1),III,0.0966183574879227,0.014423076923076924
+MSK,renal_g3,0,49,0,49,30 días post-cirugía (MSKCC grading),TRUE,Carboplatino,Después de la cirugía,Antes de completar la citorreducción,II,0,0
+HORSE,renal_g3,0,82,0,85,30 días (tempranos) y 6m (tardíos),FALSE,Cisplatino,Después de la cirugía,Tras la citorreducción (CC0/CC1),III,0,0
+CHIPOR,mort_postop,0,207,3,208,60 días post-cirugía (CTCAE v4.0),FALSE,Cisplatino,Antes de la cirugía,Tras la citorreducción (CC0/CC1),III,0,0.014423076923076924
+MSK,mort_postop,0,49,0,49,30 días post-cirugía (MSKCC grading),FALSE,Carboplatino,Después de la cirugía,Antes de completar la citorreducción,II,0,0
+HORSE,mort_postop,0,82,0,85,30 días (tempranos) y 6m (tardíos),FALSE,Cisplatino,Después de la cirugía,Tras la citorreducción (CC0/CC1),III,0,0

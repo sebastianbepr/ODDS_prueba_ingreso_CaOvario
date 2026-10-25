@@ -1,0 +1,7 @@
+chequeo,esperado,observado,aprobado
+"Muertes en SG, 3 ensayos",377,377,TRUE
+"Pacientes en SG, 3 ensayos",680,680,TRUE
+"Eventos de SLP, 3 ensayos",589,589,TRUE
+"EA grado >=3, brazo HIPEC",124,124,TRUE
+"EA grado >=3, brazo control",72,72,TRUE
+Números en riesgo en t = 0 iguales al tamaño de cada brazo,1,1,TRUE

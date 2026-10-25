@@ -1,0 +1,18 @@
+# R y RStudio
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# Respaldos y temporales
+*.bak
+*~
+~$*
+
+# Artículos con derechos de autor: no se distribuyen
+*.pdf
+
+# Salidas que se regeneran al correr el pipeline
+data/derived/*.rds
+output/modelos/
+output/pipeline_estado.csv
